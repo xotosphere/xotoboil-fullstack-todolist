@@ -1,3 +1,3 @@
 # xotoboil-springrest-boilerplate
 
-This is a small boilerplate : full stack app with React + Spring Boot
+This is a small boilerplate : Full stack app with React + Spring Boot
